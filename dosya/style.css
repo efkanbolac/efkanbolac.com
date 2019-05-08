@@ -364,11 +364,11 @@ border-top: 3px solid #b72024;
 			overflow: hidden;
 			box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.5), inset 0px 2px 1px 0px rgba(255,255,255,0.75);
 			background: #43B3E0;
-			background-image:	url('/filo/bg.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-			background-image:	url('/filo/bg.png'),		-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-			background-image:	url('/filo/bg.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-			background-image:	url('/filo/bg.png'),		-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-			background-image:	url('/filo/bg.png'),		linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+			background-image:	url('/dosya/bg.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+			background-image:	url('/dosya/bg.png'),		-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+			background-image:	url('/dosya/bg.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+			background-image:	url('/dosya/bg.png'),		-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+			background-image:	url('/dosya/bg.png'),		linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 			-moz-transition: background-color .2s ease-in-out;
 			-webkit-transition: background-color .2s ease-in-out;
 			-o-transition: background-color .2s ease-in-out;
@@ -468,11 +468,11 @@ border-top: 3px solid #b72024;
 
 					ul.social li a:before {
 						background-color: #444;
-						background-image: url('/filo/bg.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-						background-image: url('/filo/bg.png'),		-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-						background-image: url('/filo/bg.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-						background-image: url('/filo/bg.png'),		-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
-						background-image: url('/filo/bg.png'),		linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+						background-image: url('/dosya/bg.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+						background-image: url('/dosya/bg.png'),		-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+						background-image: url('/dosya/bg.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+						background-image: url('/dosya/bg.png'),		-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
+						background-image: url('/dosya/bg.png'),		linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 						border-radius: 6px;
 						box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255,255,255,0.1);
 						color: #2E2E2E !important;
@@ -603,7 +603,7 @@ border-top: 3px solid #b72024;
 
 	.wrapper
 	{
-		background-image: url('/filo/bg.png');
+		background-image: url('/dosya/bg.png');
 		box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
 	}
 .hiddenxl
@@ -617,7 +617,7 @@ border-top: 3px solid #b72024;
 
 		.wrapper.style1
 		{
-  background-image: url(/filo/efkan-bolac-bg.png),url(/filo/efkan-bolac-bg0.png);
+  background-image: url(/dosya/efkan-bolac-bg.png),url(/dosya/efkan-bolac-bg0.png);
   background-position: right top,left top;
   background-color: #940910;
   background-repeat: no-repeat;
