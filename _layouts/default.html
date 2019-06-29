@@ -12,7 +12,11 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/brands.css" integrity="sha384-i2PyM6FMpVnxjRPi0KW/xIS7hkeSznkllv+Hx/MtYDaHA5VcF0yL3KVlvzp8bWjQ" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/fontawesome.css" integrity="sha384-sri+NftO+0hcisDKgr287Y/1LVnInHJ1l+XC7+FOabmTTIK0HnE2ID+xxvJ21c5J" crossorigin="anonymous">
 
-    <title>Efkan Bolaç - Avukat</title>
+    {% if page.type != "home" %}
+      <title>{{ page.title }} - Avukat Efkan Bolaç</title>
+    {% else %}
+      <title>Avukat Efkan Bolaç</title>
+    {% endif %}
     <style>
     .bg-red2 { background-color: #940910; }
     p { font-size: 1.05rem; line-height: 32px; }
@@ -32,7 +36,7 @@
     }
     </style>
   </head>
-  <body class="bg-light" id="EfkanBolac">
+  <body class="bg-light">
 
     <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-red2 ">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,8 +45,11 @@
     
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto font-weight-bold">
-          <li class="nav-item"><a class="nav-link text-white" href="/#EfkanBolac">Efkan Bolaç</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/">Efkan Bolaç</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/yazilar">Yazılar</a></li>
+          {% if page.type == "home" %}
           <li class="nav-item"><a class="nav-link text-white" href="/#amac">Amaç</a></li>
+          {% endif %}
           <li class="nav-item"><a class="nav-link text-white" href="/#iletisim">İletişim</a></li>
         </ul>
       </div>
@@ -63,17 +70,11 @@
     </div>
 
     <div class="container pt-5" id="amac">
-      <h2 class="text-center">Sokağın Sesiyim</h2>
-      <p class="lead text-center">
-        Tüm Sokakların Sesi Olmak İstiyorum
-      </p>
+      <h2 class="text-center">{{ page.title }}</h2>
+      <p class="lead text-center">{{ page.subtitle }}</p>
       <div class="card text-black-50 shadow p-3 mb-5 bg-white rounded">
         <div class="card-body">
-          <p class="py-2">Eşitsizliğe, haksızlığa boyun eğmedim. Defalarca gözaltına alındım, arkadaşlarım katledildi, kaybedildi, işkence gördüm, evim basıldı, sesim hiç kısılmadı. Her zaman kırılan dalı sarmak için koştum, düşeni kaldırmak için...</p>
-          <p>Sokaklarda yüzlerce çocuk katledilirken, madenciler ocaklarda ölüme terk edilirken, işten çıkarılanlar hak ararken, kadınlar katledilirken, LGBTİ bireyler ayrımcılığa uğrarken onların sesi oldum. Köyüm olan Akkuyu'da nükleer santral yapılmasın diye direnen, HES'lere savaş açan köylülerin yanındaydım.</p>
-          <p>Avukat olarak sokakta hak arayanların sesiydim. Her hak ihlaline yetişmeye çalıştım, yetişemediklerime de ulaşabilmek için sokaktan aldığım sesi mecliste yankılatmak istiyorum.</p>
-          <p>Zorla hakim mezhebin sistemini uygulaması istenen Alevilerin sesi olmak için, "Öteki"nin yanında olmak için, Sokağın sesini, sokakların sesi yapmak için...<br>Sokağın kiriyle, tozuyla gireceğim meclise, ama hiçbir zaman siyasetin kirini üzerimde taşımayacağım.</p>
-          <p>20 yıllık avukatım. 1996 yılında Çağdaş Hukukçular Derneği İstanbul Şube Başkanlığı'nı yaptım. Toplumsal davalar ve polis şiddetine uğrayanların avukatlığını üstlendim. Gezi döneminde gelişen gönüllü avukatlık deneyiminin uygulayıcıları arasındaydım. Gazi Katliamı davasının, Gezi davalarının, Soma'da hayatını kaybeden madenci ailelerinin, Redhack davasının, Çarşı'nın, Cumhurbaşkanı'na hakaretten tutuklanan 16 yaşındaki M.E.A.nın ve Mersin'de vahşice katledilen Özgecan Aslan'ın ailesinin de gönüllü avukatlığını üstlendim.</p>
+          {{ content }}
         </div>
       </div>
     </div>
