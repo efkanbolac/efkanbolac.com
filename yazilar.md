@@ -1,5 +1,5 @@
 ---
-contentTitle: Yazılar
+title: Yazılar
 ---
 
 <ul>
