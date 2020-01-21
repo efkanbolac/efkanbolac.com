@@ -5,6 +5,8 @@ subtitle: 21 Nisan 2019
 
 Her canlı kendisine yönelik saldırıları def etme ve yapılan bu saldırıya karşı kendini veya çevresindekileri koruma hakkına sahiptir. Bu insanın sosyalleşmesiyle beraber gelişmiş ve kurallara bağlanmıştır. Savunma konusunu bir meslek olarak benimseyip bunu dışa vuranlar ise avukatlar olmuştur. 
 
+![i1](https://static.birgun.net/resim/haber-detay-resim/2019/04/21/muhamilikten-avukatliga-hak-savunuculugu-adaletten-uzaklasmazsaniz-hataya-da-dusmemis-olursunuz-580210-5.jpg)
+
 Roma’da kendilerine ilk zamanlarda Ad-vocati, daha sonra Orator ve Patronus sıfatları verilirdi. Bu ilk hak savunucuları, bazen yakınları olan bir patrisyeni (seçkin kişiler) savunma için, bazen siyasal çıkarlar düşüncesiyle ve hiçbir karşılık (yani ücret) söz konusu olmaksızın savunuculuk yaparlardı. Oysa, özellikle Roma’da hukukun gelişmesi, kuralların çeşitlenmesi yüzünden, zamanla avukatlık sadece bir belagat yarışması olmaktan çıktı. Özel yeteneklere ek olarak hukuk bilgisini gerektiren bir hal aldı.
 
 İlk profesyonel oratorlar, müvekkillerinden ücret isteyemezlerdi ve bu konuda bir sözleşme yapamazlardı. Yardım ettikleri, haklarını savundukları kişilerin bir minnettarlık nişanesi olmak üzere sundukları armağanları reddetmiyorlardı; fakat bu hediyeler zengin bağışlar haline geldi. Oratorlar bu hediyeleri haberleri yokmuş gibi alabilmek için kukuletalı cüppeler giyerler, müvekkilleri de hediyeleri bu kukuletaların içine bırakırlardı. Bugün kukuletasız da olsa avukatların giymekte oldukları cüppeler o geleneğin devamıdır.
@@ -58,7 +60,6 @@ Tekrar söylemek gerekirse bağımsız yargının, savunmanın olmadığı yerde
 Adaletsizliğin olduğu yerde çürüme, yozlaşma ve zulüm olur.
 
 <hr>
-
 Bu yazının yayınlandığı diğer adresler:
 <ul>
   <li>

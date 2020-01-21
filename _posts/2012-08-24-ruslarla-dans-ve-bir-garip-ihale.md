@@ -5,6 +5,8 @@ subtitle: 24 Ağustos 2012
 ---
 ROSATOM ile yani Rus hükümeti ile yapılan anlaşma gereği, Mersin Akkuyu'da yapılması hedeflenen nükleer santralin inşatına 2013’te başlanacak ve 2020 yılında ilk reaktör devreye girecek. Ancak Rosatom’un şimdiye kadarki pratiklerine bakarsak 7 yıl içinde bu santrali işletmeye alması zor görünüyor. Yapılan anlaşma ise her haliyle mantık ve hukuk kurallarını zorlar niteliktedir. 
 
+![i1](https://www.evrensel.net/files/news/default/32af98926f_32af98926f.jpg)
+
 Buna göre: Türkiye 15 yıl alım garantisi verecek ve bu alım 15.33 centi geçmeyecek, 12,35 cent ortalama ağırlık üzerinden olacak ve yıllara göre revize edilecektir. 
 
 ABD’nin elektrik maliyetlerine bakarsak; hidroelektrik için 3,5 cent, kömür için 1,8, doğalgaz için 3.42 harcayan bu ülke nükleer için 2.13 cent ödüyor. Çarpıcı rakamlar da buradan itibaren başlıyor. 
@@ -84,18 +86,46 @@ Bir garip ihale öyküsünü ve AKP iktidarının yarattığı yeni aktörü San
 
 1-Çevre ve Şehircilik Bakanı Erdoğan Bayraktar, Boğazın en güzel manzarasına sahip, tarihsel öneme sahip Sevda Tepesinin Suudi Arabistan Kralı’na satıldığının duyulması üzerine, ‘’Suudi Kralı’ndan 10 bin milyar dolar geldi’ şeklinde bir açıklama yaptıktan sonra gelen tepkiler üzerine ‘ Dilim sürçtü, geldi demedim gelecek dedim’ şeklinde sözlerini düzeltmişti.  
 
-<hr>
+## RUSYA’NIN NÜKLEER EYALETİ AKKUYU…
 
+Bu anlaşmanın 6. maddesine göre, yürürlüğe giriş tarihinden itibaren Rus tarafının inşaata başlaması için gerekli belge ve izinler için bir yıl içerisinde başvuruda bulunması gerekiyor aksi halde Türk hükümetinin anlaşmayı feshetme yetkisi bulunuyor. Bugüne kadar Akkuyu’da kurulacak nükleer santralin inşaat lisansı aşamasına kadar olan belge, izinler; yer lisansında olduğu gibi 30 yıl önce verilmiş olup, hâlâ içeriği ve 2012 yılındaki geçerlilikleri tartışma konusudur.
+
+Akkuyu’da Avrupa standartlarına ve son 30 yılda dünyada çalışan nükleer reaktörlerin ABD Kaliforniya deniz kıyılarında meydana getirdiği ekolojik felaketler de göz önüne alınarak gerçek anlamda bilimsel bir Çevre Etki Değerlendirme (ÇED) raporu hazırlanması gerekmektedir. Bu durumda ise, bu çalışmaların birkaç yılı aşacak araştırma süreci gerektireceği kaçınılmaz bir gerçektir.
+
+Böylece, dünyada örneği olmayan ve ilk kez Türkiye Cumhuriyeti’nin bir toprak parçası, başka bir yabancı devlete, yani Rusya’ya Akkuyu’da bir “nükleer eyalet” kurulmasına bölge halkına referandum şansı verilmeden bedelsiz bağışlanıyor. Bu proje süresince binlerce yabancı işçinin çalışmaya başlaması ile, bu durumun bölgenin sosyokültürel ve ekolojik yapısına nasıl etki edeceği hesaplanmıyor.
+
+Anlaşmanın 9. maddesine göre, Rus tarafına, yani ASE inşaat şirketine Rus menşeli malları (iş ve hizmet) kullanma yetkisi vererek, bu projede çalışacak Türk iş gücünün ve inşaat sanayinin de önü kapatılmıştır.
+
+Elektrik alım-satımını içeren 10. maddeye göre; Türk tarafı 1. ve 2. ünitelerin üreteceği elektriğin yüzde 70’ini, 3. ile 4. ünitelerin üreteceğinin yüzde 30’una karşılık gelen sabit miktarın, her bir ünitenin ticari işletmeye alınma tarihinden itibaren 15 yıl boyunca fiyat üst tavan limiti olan 15.33 ABD sent/kWs geçmemek şartı ile 12.35 ABD sent/kWsaat ağırlıklı ortalama fiyattan satın almayı garanti ederek, diğer iki ünitede üretilecek elektriğin Ruslar tarafından serbest piyasada ve satış fiyatına bir limit koymadan spekülatif bir pazarda satılmasına izin vermektedir.
+
+Akkuyu’nun coğrafi konumu, soğutma suyu olarak kullanılacak deniz suyunun yüzde 39 tuzluluk derecesi ve yapımda kullanılacak Rus malzemesinin kalitesi göz önünde tutulursa, bu santralin kârlı ticari ömrü zaten 15 yılı geçmeyecektir. 15 yıllık bir çalışmadan sonra bu santralin onarım, bakım ve modernizasyon masrafları hesaba katılırsa bu santralin kar getiren bir enerji kaynağı olmayacağı açıkça görülecektir. Ayrıca işletme süresince Türkiye’de veya bu bölgede meydana gelebilecek bir elektrik enerji krizi sırasında, Rus tarafının ürettiği enerjiyi kriz süresince Türk tarafına satma zorunluluğu yoktur.
+
+Enerji Bakanı Taner Yıldız, bu anlaşma ile enerji anlamında Rusya’ya bağımlılığımızın artacağı tezini reddetmiş ve nükleeri yerli üretim gibi görmüştür. Hâlbuki var olan verilere göre doğalgazda yüzde 64 ve petrolde yüzde 35 gibi Rusya’ya bağımlı durumdayız. Bunu enerji anlamında göstermek gerekirse yüzde 62 civarında enerji üretiminde Ruslara bağımlıyız. Enerji Bakanı’nı şu an kabinede olan Ahmet Davutoğlu 19 eylül 2008 yılında yaptığı bir konuşmada yalanlamıştır. Rusya Gürcistan arasında bir çatışma olması durumunda Türkiye’nin alacağı konumu anlatan Davutoğlu şöyle demiştir:
+
+“Türkiye’nin coğrafi koşullarını anlamanızı rica ediyorum. … Rusya’yı ekonomik olarak izole ederseniz, Türkiye bunu kaldırabilir mi? Ne yazık ki, bu gerçeği kabul etmek zorundayız. Türkiye Rusya’ya enerjide yüzde 75-80 oranında bağımlıdır. Bir Rus–Amerikan veya bir Rus–NATO çatışması istemiyoruz.”
+
+İktidarın hal-i pür melali budur. Bu sebeple gerçeği tersinden söylemenin anlamı yoktur. Yapılacak santral ile bağımlılığımız çok daha fazla artacaktır.
+
+Rusya kendi topraklarında bile Akkuyu’da kurmak istediği reaktörün bir alt modeline izin alamamış olup yine Bulgaristan Belene’de de hüsrana uğramıştır.
+
+Yapılmak istenen oldubittinin ne olduğu tam olarak bilinmemekte durum ile ilgili hükümetin kraldan çok kralcı tavrı devam etmektedir.
+
+<hr>
 Bu yazının yayınlandığı diğer adresler:
 <ul>
+  <li>
+    <a href="https://anamurcevreinisiyatifi.blogspot.com/2012/08/ruslarla-dans-ve-bir-garip-ihale.html">
+      Anamur Çevre İnisiyatifi
+    </a>
+  </li>
   <li>
     <a href="https://www.evrensel.net/haber/35064/ruslarla-dans-ve-bir-garip-ihale">
       Birgün Gazetesi
     </a>
   </li>
   <li>
-    <a href="https://anamurcevreinisiyatifi.blogspot.com/2012/08/ruslarla-dans-ve-bir-garip-ihale.html">
-      Anamur Çevre İnisiyatifi
+    <a href="https://www.evrensel.net/haber/35064/ruslarla-dans-ve-bir-garip-ihale">
+      Evrensel
     </a>
   </li>
 </ul>
