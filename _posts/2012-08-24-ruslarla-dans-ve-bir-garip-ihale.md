@@ -1,8 +1,8 @@
 ---
 title: Ruslarla dans ve bir garip ihale
 subtitle: 24 Ağustos 2012
-
 ---
+
 ROSATOM ile yani Rus hükümeti ile yapılan anlaşma gereği, Mersin Akkuyu'da yapılması hedeflenen nükleer santralin inşatına 2013’te başlanacak ve 2020 yılında ilk reaktör devreye girecek. Ancak Rosatom’un şimdiye kadarki pratiklerine bakarsak 7 yıl içinde bu santrali işletmeye alması zor görünüyor. Yapılan anlaşma ise her haliyle mantık ve hukuk kurallarını zorlar niteliktedir. 
 
 ![i1](https://www.evrensel.net/files/news/default/32af98926f_32af98926f.jpg)
