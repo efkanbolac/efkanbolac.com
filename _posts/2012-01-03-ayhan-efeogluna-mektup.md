@@ -62,7 +62,7 @@ Ne çok ölmüşüz be Ayhan. (EB/AS)
 Bu yazının yayınlandığı diğer adresler:
 <ul>
   <li>
-    <a href="http://m.bianet.org/kurdi/bianet/142543-ayhan-efeoglu-na-mektup">
+    <a href="http://bianet.org/bianet/insan-haklari/142543-ayhan-efeoglu-na-mektup">
       Bianet
     </a>
   </li>
